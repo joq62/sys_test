@@ -1,0 +1,4 @@
+*DBG* divi_service got call {divi,420,10} from <0.89.0>
+*DBG* divi_service sent 42.0 to <0.89.0>, new state {state}
+*DBG* divi_service got call {divi,320,10,{sys_test,59}} from <0.89.0>
+*DBG* divi_service sent 32.0 to <0.89.0>, new state {state}
